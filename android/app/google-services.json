@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "60437371142",
+    "firebase_url": "https://music-app-427b5-default-rtdb.firebaseio.com",
+    "project_id": "music-app-427b5",
+    "storage_bucket": "music-app-427b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60437371142:android:b1f50fdace0071b383e687",
+        "android_client_info": {
+          "package_name": "com.example.flutter_src"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzZN6xX6MBa7UG5JWmtWPu7TgS2Zgmlsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60437371142:android:55c1b20ec7e08fbb83e687",
+        "android_client_info": {
+          "package_name": "com.example.music_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzZN6xX6MBa7UG5JWmtWPu7TgS2Zgmlsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60437371142:android:761bb28ca00646df83e687",
+        "android_client_info": {
+          "package_name": "com.example.my_app_music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzZN6xX6MBa7UG5JWmtWPu7TgS2Zgmlsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60437371142:android:e921cdcbfe9c733b83e687",
+        "android_client_info": {
+          "package_name": "com.example.provider_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzZN6xX6MBa7UG5JWmtWPu7TgS2Zgmlsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60437371142:android:e2a77702cbbbd60783e687",
+        "android_client_info": {
+          "package_name": "com.example.test_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzZN6xX6MBa7UG5JWmtWPu7TgS2Zgmlsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60437371142:android:79e6b4c5b77b13d983e687",
+        "android_client_info": {
+          "package_name": "htjdgbdg.dvd.vd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzZN6xX6MBa7UG5JWmtWPu7TgS2Zgmlsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
