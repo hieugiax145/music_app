@@ -1,5 +1,4 @@
-# music_app
-## App Screenshots
+# App Screenshots
 
 <table>
   <tr>
