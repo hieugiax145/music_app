@@ -2,9 +2,9 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/hieugiax145/music_app/assets/122389093/82885340-62e4-497b-9ddf-56022cc9f5be" width=270 height=480></td>
-    <td><img src="https://github.com/hieugiax145/music_app/assets/122389093/0c2b7c08-a45d-4358-9f35-51fdec12e8b0" width=270 height=480></td>
-    <td><img src="https://github.com/hieugiax145/music_app/assets/122389093/183780b6-7560-409a-a812-5c704fc6a0a4" width=270 height=480></td>
+    <td><img src="https://github.com/hieugiax145/music_app/assets/122389093/82885340-62e4-497b-9ddf-56022cc9f5be" width=270 ></td>
+    <td><img src="https://github.com/hieugiax145/music_app/assets/122389093/0c2b7c08-a45d-4358-9f35-51fdec12e8b0" width=270 ></td>
+    <td><img src="https://github.com/hieugiax145/music_app/assets/122389093/183780b6-7560-409a-a812-5c704fc6a0a4" width=270 ></td>
   </tr>
   <tr>
     <td><img src="https://github.com/hieugiax145/music_app/assets/122389093/839babc3-b1cc-4389-b262-6feb81fcab36" width=270 height=480></td>
